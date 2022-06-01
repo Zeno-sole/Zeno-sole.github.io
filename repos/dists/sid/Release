@@ -1,0 +1,40 @@
+Label: deepin-apricot
+Codename: sid
+Version: 2022
+Date: Mon, 30 May 2022 06:24:26 UTC
+Architectures: amd64
+Components: main
+Description: Deepin debian packages
+MD5Sum:
+ 9eab464c20ee34b33aa6dd43a78a64bb 618 main/binary-amd64/Packages
+ d3129da9f1fb499bc8da697041afa68f 433 main/binary-amd64/Packages.gz
+ 136ce2b682844fa98295f4b7d0c8705f 108 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/debian-installer/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/debian-installer/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 2f89168effc9fbc099f24b5a179f9cab 109 main/source/Release
+ fa2fa7a91daeb3e35a78b2dbba0ad503 793 main/Contents-amd64
+ 138c25d1f9b316f72ee26962a9d9c251 240 main/Contents-amd64.bz2
+SHA1:
+ 57e0c00e08184465a637230ec1dca86bb79a76f4 618 main/binary-amd64/Packages
+ 5ed73e9381958979ed4f8a653d12d3e0a22337b2 433 main/binary-amd64/Packages.gz
+ 97cb9f74ef49791a201d48f55621c3d882a2db21 108 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/debian-installer/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/debian-installer/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 919a2da46d4e603b8fdf086de8967923f95f8fcf 109 main/source/Release
+ 06477f917e0570ae35cd21cc543307453ff9c6fc 793 main/Contents-amd64
+ 906f7911de3d1e7032e99e2ed0d1404d08fcae91 240 main/Contents-amd64.bz2
+SHA256:
+ 5a64ce905cb8549366499020e528c007c6e287b5dc1fc4574e4dfc13bf3ea2dd 618 main/binary-amd64/Packages
+ f30adb6102e5f708b37d05e6089f1eb49e5b9ec4baa2b30ebcf1c722bd3ff091 433 main/binary-amd64/Packages.gz
+ f196a37ae1d185d51fe315c75587c9bf4a3339be42f2612b2be2bec8d1ea1701 108 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/debian-installer/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/debian-installer/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 106fc0c21704c242ccfe742957edc90d3e4ca9a3d59179bd2edae904c3719dae 109 main/source/Release
+ 21e62f30dc4fe542208faa14571b47b069ec4e757a841e7344b3925594b95cc4 793 main/Contents-amd64
+ 2507190578cf4e1f67fbc1d7c8f3a894a378a781182e6963d52262e4ea830fdb 240 main/Contents-amd64.bz2

@@ -1,0 +1,23 @@
+Name: buster
+Suite: buster
+Architectures: amd64 source
+Components: main
+UDebComponents: main
+Method: https://debian.packages.mkacg.com/
+VerifyRelease: blindtrust
+
+Name: bullseye
+Suite: bullseye
+Architectures: amd64 source
+Components: main
+UDebComponents: main
+Method: https://debian.packages.mkacg.com/
+VerifyRelease: blindtrust
+
+Name: sid
+Suite: sid
+Architectures: amd64 source
+Components: main
+UDebComponents: main
+Method: https://debian.packages.mkacg.com/
+VerifyRelease: blindtrust
